@@ -1,7 +1,6 @@
 <h1>Data Science Course | Part 2</h1>
 Master MIAS M2 - Data Science Course | Part 2: Lecture slides and lab notebooks
-
-
+<br>
 <table>
   <tr>
     <th>Session</th>
@@ -53,4 +52,5 @@ Master MIAS M2 - Data Science Course | Part 2: Lecture slides and lab notebooks
     <td><a href="colab">Projects</a></td>
   </tr>
 </table>
+<br>
 For further questions and more information, please, contact me at: idriss.jairi@univ-lille.fr
